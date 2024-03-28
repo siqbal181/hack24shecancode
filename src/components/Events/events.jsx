@@ -71,7 +71,8 @@ const Events = () => {
           <div className="support-buttons">
           <Link to="/freetier-iwd" className="link-button">
               <button>£</button>
-            </Link>            <button>££</button>
+            </Link>
+             <button>££</button>
             <button>£££</button>
           </div>
           <p>Add a reminder for a later date. (Reminder icon)</p>
